@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+}
+p{
+    background-color: hsl(198, 50%, 34%);
+}
+a{
+    text-decoration: underline wavy;
+}
+ul{
+list-style-type: square;
+}
+ol{
+    list-style-type: initial ;
+    }
+#harmadik{
+    color: rgb(233, 33, 75)
+}
+.kiemel{
+    background-color: #23fd45;
+}
+.jobbrazar{
+    text-align: right;
+}
+.elso{
+    width: 50%;
+    background-color: #23fd447e;
+    color:white;
+    padding:10px;
+    borrder
+}
